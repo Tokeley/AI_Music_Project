@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Custom styles for audio player */
+.audio-container {
+  @apply my-8 p-6 bg-gray-50 dark:bg-gray-900 rounded-lg border border-gray-200 dark:border-gray-800;
+}
+
+.audio-label {
+  @apply text-sm font-semibold text-gray-700 dark:text-gray-300 mb-3;
+}
+
+/* Reference styling */
+.reference {
+  @apply inline-block px-1 text-blue-600 dark:text-blue-400 hover:underline;
+}
