@@ -236,7 +236,7 @@ export const essayData: EssayData = {
         {
           id: "ao-3",
           content:
-            "To illustrate this problem, AI music platform Suno was used to generate a M¯aori karanga. A karanga is a ceremonial call performed by women during p¯owhiri (welcome ceremonies), used to establish spiritual connection between tangata whenua (hosts) and manuhiri (visitors). The karanga is a highly skilled practice with specific vocal techniques, structural patterns, and cultural protocols that vary between iwi (tribes). It carries whakapapa (genealogy), acknowledges t¯upuna (ancestors), and fulfills a sacred role in the ritual process. The prompt used intentionally lacked key context to prove the point that these AI models are not capable of recognising cultural boundaries and the sacred nature of ceremonial practices: “Generate a M¯aori karanga for the Ng¯ati Kahungunu iwi that acknowledges visitors, hosts and the ancestors.”",
+            "To illustrate this problem, AI music platform Suno was used to generate a Māori karanga. A karanga is a ceremonial call performed by women during pōwhiri (welcome ceremonies), used to establish spiritual connection between tangata whenua (hosts) and manuhiri (visitors). The karanga is a highly skilled practice with specific vocal techniques, structural patterns, and cultural protocols that vary between iwi (tribes). It carries whakapapa (genealogy), acknowledges tūpuna (ancestors), and fulfills a sacred role in the ritual process. The prompt used intentionally lacked key context to prove the point that these AI models are not capable of recognising cultural boundaries and the sacred nature of ceremonial practices: “Generate a Māori karanga for the Ngāti Kahungunu iwi that acknowledges visitors, hosts and the ancestors.”",
         },
         {
           id: "ao-4",
@@ -254,7 +254,7 @@ export const essayData: EssayData = {
         },
         {
           id: "ao-6",
-          content: "The AI-generated version was fundamentally flawed on multiple levels. Technically, it used a male voice instead of female, added inappropriate percussive elements, and employed major chord harmonies. More critically, the lyrics were vague and culturally hollow, featuring generic phrases like “Love is the bond of humanity” and “The essence that is here” while completely failing to acknowledge tangata whenua (people of the land), manuhiri (guests), or ng¯a t¯upuna (ancestors). These failures stem from Western-biased training data and produce output that is not only inaccurate but culturally inappropriate, a form of digital colonialism that actively misrepresents and distorts Indigenous practices.",
+          content: "The AI-generated version was fundamentally flawed on multiple levels. Technically, it used a male voice instead of female, added inappropriate percussive elements, and employed major chord harmonies. More critically, the lyrics were vague and culturally hollow, featuring generic phrases like “Love is the bond of humanity” and “The essence that is here” while completely failing to acknowledge tangata whenua (people of the land), manuhiri (guests), or ngā tūpuna (ancestors). These failures stem from Western-biased training data and produce output that is not only inaccurate but culturally inappropriate, a form of digital colonialism that actively misrepresents and distorts Indigenous practices.",
         },
         {
           id: "ao-7",
